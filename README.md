@@ -238,7 +238,9 @@ A project designed to help people in rural Karnataka explore government schemes 
 `Rural Services` `Government Schemes` `Web Development`
 
 <br/>
-
+<a href="https://government-scheme-ten.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-0891B2?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 <a href="https://github.com/kbalaji012007-gif/Government-Scheme">
   <img src="https://img.shields.io/badge/Source%20Code-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" />
 </a>
