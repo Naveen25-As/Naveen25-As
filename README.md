@@ -13,7 +13,7 @@
 <a href="https://github.com/Naveen25-As">
   <img src="https://img.shields.io/badge/GitHub-Naveen25--As-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/naveen-asundi-0a75b739/">
+<a href="https://linkedin.com/in/naveen-asundi-0a75b7395/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://student-ai-bice.vercel.app/">
