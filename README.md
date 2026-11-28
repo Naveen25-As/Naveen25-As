@@ -178,7 +178,9 @@ A web application project featuring authentication and social networking functio
 `JavaScript` `Node.js` `Express.js` `SQLite`
 
 <br/>
-
+<a href="https://social-media-platform-xtly.onrender.com">
+  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-0891B2?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 <a href="https://github.com/Naveen25-As/social-media-platform">
   <img src="https://img.shields.io/badge/Source%20Code-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" />
 </a>
